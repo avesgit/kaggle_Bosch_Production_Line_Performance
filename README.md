@@ -1,5 +1,7 @@
 # Bosch Production Line Performance, NO.74/top 6%
  [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance )<br>
+ [Bosch Manuals]([Bosch Manuals](https://mans.io/brand/bosch))
+ [Bosch Инструкции](([Bosch Инструкции](https://mcgrp.ru/brand/bosch)))
  e-mail : samlin266118@gmail.com <br>
  如果有問題可以直接寄信給我 <br>
  **********************************************
